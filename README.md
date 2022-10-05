@@ -1,2 +1,4 @@
 # MiPrimerRepo
-Tutorial RStudio &amp; GitHub
+Tutorial RStudio y GitHub
+
+Añade una línea de texto
